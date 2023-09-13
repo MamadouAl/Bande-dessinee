@@ -1,0 +1,173 @@
+html{
+    height: 100%;
+}
+
+body {
+  background-color: #f0f0f0;
+    height : 100%;
+    margin : 0;
+    padding: 0%;
+    color : black ;
+
+}
+
+#body {
+    background-color: white; /* aquamarine; */
+    margin-top: -100;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+#tableau{
+  text-align: center;
+  font-family: serif;
+  font-size: 22px;
+  padding-bottom: 50px;
+  overflow: scroll;
+}
+
+#fond_titre{
+    height: 400px;
+    background : url(images/spirou3.jpeg) no-repeat center ;
+    background-size: cover;
+}
+
+
+#titre_principal{
+   text-align:center;
+   padding-top: 5%;
+   color: rgb(0, 0, 0);
+   font-size: 50px ;
+   font-family: Luminari, fantasy;
+}
+
+#auteurs{
+  height: 5%;
+}
+
+#modification > p {
+  color: red;
+  font-weight: bold;
+}
+
+#tableau > p {
+  color: green;
+  font-weight: bold;
+}
+
+
+h1{
+    margin-left: 10%;
+    margin: 0%;
+}
+
+#histoire{
+  padding-bottom: 50px;
+}
+
+#histoires{
+    margin-left: 40%;
+    margin-right: 20%;
+    text-align: justify;
+}
+
+#liens{
+    color: black;
+    border-style: hidden ;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: xx-large;
+    padding-top: 0.01px;
+}
+
+#liens > p > a{
+    font-size: 1.0em;
+    color: #181818;
+    padding-bottom: 3px;
+    text-decoration: none;
+}
+
+#liens > p > a:hover{
+    color: #760001;
+
+}
+
+#image1{
+    padding-left: 70%;
+}
+
+#detail_image > img {
+    height: 50%;
+    width: 50%;
+    padding-left: 30%;
+}
+#detail{
+    padding-top: 7%;
+    padding-left: 15%;
+    padding-bottom: 200px;
+    padding-right: 15%;
+}
+
+#liste > ul > li > a {
+  text-decoration: none;
+}
+
+#modification{
+  text-align: center;
+  font-family: serif;
+  font-size: 22px;
+  padding-top: 10px;
+  padding-bottom: 300px;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 100px 100px;
+}
+th, td {
+  padding: 10pt 10pt;
+  background-color: #cdd2e4;
+}
+
+th {
+  background-color: #EAE1E199;
+  padding: 5pt 5pt;
+}
+.edition {
+  background-color: #ffd5cc;
+}
+
+.edition > a {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#auteurs{
+  text-align: center;
+  background-color: #272727;
+  height: 10%;
+  padding-bottom: 20px;
+}
+
+#basPage{
+  height: 100%;
+}
+
+#auteurs2{
+  height: 100%;
+  margin-left: 60% ;
+}
+
+ #basPage > img{
+   height: 170px;
+   width: 180px;
+   margin-left: 0px;
+ }
+
+ #auteurs > table{
+   width: 100% ;
+
+   color: white;
+ }

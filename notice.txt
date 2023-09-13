@@ -1,0 +1,14 @@
+Membre du groupe : Gestion des DB (Spirou et Fantasio)
+
+
+FAGBEHOURO Ronald ;
+DIALLO Mamadou Aliou ;
+HASSANE Idriss ;
+
+
+pour configurer la base des données :
+- charger le fichier "P03_seriesBD.psql.sql" qui est dans le repertoire psql dans le terminal ;
+
+- changer les données dans le fichier "monEnv.php"
+
+-Executer le fichier "index.php" pour accéder au projet et la présentation 
